@@ -1,1 +1,1 @@
-console.log("Hello from products");
+import("./bootstrap.js");
